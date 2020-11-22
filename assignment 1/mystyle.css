@@ -1,0 +1,55 @@
+h2 {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+    text-align: center;
+  }
+
+  h3 {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+    text-align: center;
+  }
+
+  h4 {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+    text-align: center;
+  }
+
+div {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid purple;
+    padding: 50px;
+    margin: 20px;
+}
+
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+body {
+  background-color: goldenrod;
+}
